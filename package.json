@@ -1,0 +1,12 @@
+{
+  "name": "judol-slot",
+  "version": "1.0.0",
+  "description": "Static Lucky Slot website for Cloud Run",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
